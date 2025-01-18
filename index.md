@@ -1,3 +1,10 @@
+# Kashyap Maddala's First CS193 Homework
+
+My favorite things about CS193 are:
+- The class is once a week so it's not a significant time commitment.
+- The instructors are good and seem quite understanding.
+- The content is useful for future CS classes that I may take.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,16 +33,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-1. This is just me
-2. Experimenting with GitHub
-3. Does the numbered list work?
-
-- Also trying
-- Bulleted lists
-- Right now
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+```markdown
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -43,3 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
