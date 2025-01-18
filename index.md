@@ -26,6 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+1. This is just me
+2. Experimenting with GitHub
+3. Does the numbered list work?
+
+- Also trying
+- Bulleted lists
+- Right now
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
